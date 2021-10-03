@@ -1,6 +1,6 @@
 # dribble_bicycle_shopping_cart
 
-A new Flutter application, inspired from dribble website.
+A new Flutter application, inspired from dribble website  (by the name of 'Ecommerce Mobile App' from Halal lab repository).
 
 ## Getting Started
 
